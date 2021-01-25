@@ -2,7 +2,7 @@
 
 • Program Visual Studio ve PyCharm'da çalışmaktadır.
 
-Şu modüllerin yüklenmesi gerekebilir:
+• Şu modüllerin yüklenmesi gerekebilir:
 • "ete3"
 • "matplotlib"
 • "numpy"
