@@ -1,5 +1,8 @@
 # Tasarım Dersi Projesi
 
+• Program Visual Studio ve PyCharm'da çalışmaktadır.
+
+
 • Bütün algoritmalar tek arayüzde birleştirildi.
 
 
