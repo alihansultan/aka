@@ -1,6 +1,6 @@
 
-UPGMA Algoritması
+# UPGMA Algoritması
 
---> Program Visual Studio ve PyCharm'da çalışmaktadır.
+• Program Visual Studio ve PyCharm'da çalışmaktadır.
 
---> Şu modüllerin yüklenmesi gerekebilir: "Bio"
+• Şu modüllerin yüklenmesi gerekebilir: "Bio"
